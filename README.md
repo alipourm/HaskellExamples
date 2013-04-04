@@ -1,4 +1,4 @@
 HaskellExamples
 ===============
 
-This repo contains small haskell examples.
+This repo contains small haskell examples for beginners.
